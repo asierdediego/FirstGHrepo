@@ -11,12 +11,11 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.CheckBox;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import java.util.List;
 
 /**
- * Created by usuario on 06/02/2017.
+ *
  */
 
 public class DelitoListFragment extends Fragment {

@@ -18,7 +18,7 @@ import android.widget.EditText;
 import java.util.UUID;
 
 /**
- * Created by admin on 01/02/2017.
+ *
  */
 
 public class DelitoFragment extends Fragment {
@@ -51,7 +51,7 @@ public class DelitoFragment extends Fragment {
         super.onCreate(savedInstanceState);
         mDelito= new Delito();
 
-        if(mDelitoId==(UUID) getActivity().getIntent().getSerializableExtra(ARG_DELITO_ID)){
+        if(mDelitoId== getActivity().getIntent().getSerializableExtra(ARG_DELITO_ID)){
            delitoId=mDelitoId2;
 
 

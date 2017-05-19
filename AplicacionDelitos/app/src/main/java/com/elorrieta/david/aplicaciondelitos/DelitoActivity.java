@@ -7,7 +7,7 @@ import android.support.v4.app.Fragment;
 import java.util.UUID;
 
 /**
- * Created by usuario on 06/02/2017.
+ *
  */
 
 public class DelitoActivity extends SingleFragmentActivity {

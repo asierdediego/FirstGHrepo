@@ -7,4 +7,6 @@
     <string name="label_detalles_delito">delito details</string>
     <string name="label_delito_resuelto">Solved</string>
     <string name="title_activity_indice">Index</string>
+    <string name="Administrator">Administrator</string>
+    <string name="Client">Client</string>
 </resources>

@@ -6,5 +6,7 @@
     <string name="hint_titulo_delito">Titulo del delito</string>
     <string name="label_detalles_delito">Detalles del delito</string>
     <string name="label_delito_resuelto">Resuelto</string>
-    <string name="title_activity_indice">Indice</string>
+    <string name="title_activity_indice">Índice</string>
+    <string name="Administrator">Administrador</string>
+    <string name="Client">Cliente</string>
 </resources>

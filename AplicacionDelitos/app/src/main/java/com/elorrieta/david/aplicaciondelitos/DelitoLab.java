@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.UUID;
 
 /**
- * Created by usuario on 06/02/2017.
+ *
  */
 
 public class DelitoLab {

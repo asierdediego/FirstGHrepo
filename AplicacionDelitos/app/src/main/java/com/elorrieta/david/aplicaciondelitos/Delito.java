@@ -7,6 +7,7 @@ import java.util.UUID;
  * Created by admin on 31/01/2017.
  */
 
+@SuppressWarnings("DefaultFileTemplate")
 public class Delito {
 
     private UUID mId;

@@ -1,10 +1,8 @@
 package com.elorrieta.david.aplicaciondelitos;
 
-import android.app.FragmentManager;
 import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
-import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentActivity;
 
@@ -17,7 +15,7 @@ import java.util.UUID;
 
 
 /**
- * Created by usuario on 12/02/2017.
+ *
  */
 
 public class DelitoPagerActivity extends FragmentActivity {
