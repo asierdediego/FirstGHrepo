@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AplicacionDelitos</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="hint_titulo_delito">Titulo del delito</string>
+    <string name="label_detalles_delito">Detalles del delito</string>
+    <string name="label_delito_resuelto">Resuelto</string>
+    <string name="title_activity_indice">Indice</string>
+</resources>
