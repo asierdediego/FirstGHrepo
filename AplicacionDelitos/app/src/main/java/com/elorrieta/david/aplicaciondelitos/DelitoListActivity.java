@@ -3,7 +3,6 @@ package com.elorrieta.david.aplicaciondelitos;
 import android.content.Context;
 import android.content.Intent;
 import android.support.v4.app.Fragment;
-import android.util.Log;
 
 import java.util.UUID;
 
